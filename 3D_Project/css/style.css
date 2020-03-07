@@ -1,0 +1,22 @@
+ 
+body {
+            background-color: #78d996;
+        }
+
+        * {
+            color: #78d996;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .box {
+            background-color: white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 70%;
+            padding: 50px;
+            -webkit-box-shadow: 10px 10px 41px -8px rgba(0, 0, 0, 0.35);
+            -moz-box-shadow: 10px 10px 41px -8px rgba(0, 0, 0, 0.35);
+            box-shadow: 10px 10px 41px -8px rgba(0, 0, 0, 0.35);
+        }
